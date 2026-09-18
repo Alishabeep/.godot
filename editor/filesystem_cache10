@@ -1,0 +1,432 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1789728049
+icon.svg::CompressedTexture2D::3596759946226483595::1787729068::1787729074::1::::<><><>0<>0<>d4c473c2969ed7a60c1c977a8100f866<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1787729303
+::res://assets/fonts/::1787729303
+Square-Black.ttf::FontFile::1108454821128621945::1787729302::1787729303::1::::<><><>0<>0<>abd81a956e5c9818796cee930f100377<>res://.godot/imported/Square-Black.ttf-de15d4c54e84a512cb5a21b783a303c7.fontdata::
+::res://assets/images/::1787729303
+::res://assets/images/Background/::1787729303
+Blue.png::CompressedTexture2D::1834265693651909121::1787729302::1787729303::1::::<><><>0<>0<>0ec6de981434b71c56bbb76e8009ecdd<>res://.godot/imported/Blue.png-4a2ce9794860cea5d08d4ab2e0526071.ctex::
+Brown.png::CompressedTexture2D::205336410866453783::1787729302::1787729303::1::::<><><>0<>0<>ed1c95f4d862341f150f60bb93e3b6d6<>res://.godot/imported/Brown.png-5733ae39290cf7b083f3966131e7e898.ctex::
+Gray.png::CompressedTexture2D::4039198390711873870::1787729302::1787729303::1::::<><><>0<>0<>17e1e6913ae3f1c067e1f87976f7284f<>res://.godot/imported/Gray.png-dc5b35cac1df34bf8046a38f14b4f1eb.ctex::
+Green.png::CompressedTexture2D::7443965499071786280::1787729302::1787729303::1::::<><><>0<>0<>4f5b127efbaf6c007000e9904ac283a5<>res://.godot/imported/Green.png-548cbf01b73fb5e5bf40d1a892de2247.ctex::
+::res://assets/images/Collectibles/::1788963543
+Apple.png::CompressedTexture2D::5506756296575627154::1787729302::1787729303::1::::<><><>0<>0<>3acacb66f37340adc34ea7f6e83dc66d<>res://.godot/imported/Apple.png-34cb39577f9d237345a97efffc395dc8.ctex::
+Collected.png::CompressedTexture2D::8127710567154077372::1787729302::1787729303::1::::<><><>0<>0<>fd5fee0d88e88bfe82d620f670812dca<>res://.godot/imported/Collected.png-54590556835bf33337365537fb86391e.ctex::
+flower straight (2).png::CompressedTexture2D::6569746454383121531::1788963541::1788963543::1::::<><><>0<>0<>ce5ca3249f9d81ebb2d050b6351e01df<>res://.godot/imported/flower straight (2).png-440af33830549b3cf1d4872d884733a2.ctex::
+::res://assets/images/Pink Man/::1787729303
+Double Jump (32x32).png::CompressedTexture2D::6032686567906512649::1787729302::1787729303::1::::<><><>0<>0<>19cd6c891b266361a9572a0290b56878<>res://.godot/imported/Double Jump (32x32).png-ad9c794c81227f3956ae4352d2587fde.ctex::
+Fall (32x32).png::CompressedTexture2D::4450305763829627397::1787729302::1787729303::1::::<><><>0<>0<>ed1978ff16d7662126c999fdbcab69cb<>res://.godot/imported/Fall (32x32).png-06c6229693b5a40cb4a61fe20ad19108.ctex::
+Hit (32x32).png::CompressedTexture2D::1357824867051142905::1787729302::1787729303::1::::<><><>0<>0<>5c64b3bd1a7fef710c51d9b04fba2a37<>res://.godot/imported/Hit (32x32).png-cf23d33060e9ad19c119be271b33dc7a.ctex::
+Idle (32x32).png::CompressedTexture2D::2510644414199508916::1787729302::1787729303::1::::<><><>0<>0<>81880bb3f42e72c1116b17703af55b8b<>res://.godot/imported/Idle (32x32).png-018d5987dc4dbe24e273354a1c4ad45b.ctex::
+Jump (32x32).png::CompressedTexture2D::4687933800972558117::1787729302::1787729303::1::::<><><>0<>0<>e6fc2219963bd7fc12b857b4f5cac60c<>res://.godot/imported/Jump (32x32).png-7cbd23f6e2228fa9c70c2db3599a4c86.ctex::
+Run (32x32).png::CompressedTexture2D::8114530676684878931::1787729302::1787729303::1::::<><><>0<>0<>5a540cc9494176889bb95c4d365e7b6b<>res://.godot/imported/Run (32x32).png-d1a81ad2c63f4ac24965355b9c25d86e.ctex::
+Wall Jump (32x32).png::CompressedTexture2D::7092911239849271780::1787729302::1787729303::1::::<><><>0<>0<>b2d47b8a66df9faa982ea196b54f893a<>res://.godot/imported/Wall Jump (32x32).png-9da69b3917a6f05c83da85af0ae9a240.ctex::
+::res://assets/images/Snail/::1787729303
+Hit (38x24).png::CompressedTexture2D::8993322263870454815::1787729303::1787729303::1::::<><><>0<>0<>0c965485b6dce0468b7ea3de78b37862<>res://.godot/imported/Hit (38x24).png-4dd8b762bfe8394f4090e658654f7eea.ctex::
+Idle (38x24).png::CompressedTexture2D::587556408496941466::1787729303::1787729303::1::::<><><>0<>0<>d90c1903085664f7db7e9494574a1739<>res://.godot/imported/Idle (38x24).png-3dc007cc7edb56b64a043bea2456542e.ctex::
+Shell Idle (38x24).png::CompressedTexture2D::3483126458909926669::1787729303::1787729303::1::::<><><>0<>0<>f5be2760aa5845f07e7b8f5c265790a3<>res://.godot/imported/Shell Idle (38x24).png-6a351518051c1d842af2b4d19d143588.ctex::
+Shell Top Hit (38x24).png::CompressedTexture2D::2801678472086024528::1787729303::1787729303::1::::<><><>0<>0<>2a330107d05ccbfe0e36a877cc2105b5<>res://.godot/imported/Shell Top Hit (38x24).png-7d4376be7cbf20d28822e3f7dc2b78ce.ctex::
+Shell Wall Hit (38x24).png::CompressedTexture2D::5527939576337859358::1787729303::1787729303::1::::<><><>0<>0<>3241b848c2b07139fe6d90f3919afb0f<>res://.godot/imported/Shell Wall Hit (38x24).png-c35fab384f107b118463398c53b19479.ctex::
+Walk (38x24).png::CompressedTexture2D::8659516291713935772::1787729303::1787729303::1::::<><><>0<>0<>ed4e5caed36538a6add70652e121de2f<>res://.godot/imported/Walk (38x24).png-cc2214ae5ff83eba80e58ef6c7120c0e.ctex::
+::res://assets/images/Tilemap/::1787729303
+Checkpoint (Flag Idle)(64x64).png::CompressedTexture2D::5676017429708700957::1787729303::1787729303::1::::<><><>0<>0<>59cbe973786fc349842a7019b93ca3af<>res://.godot/imported/Checkpoint (Flag Idle)(64x64).png-da15746e6bd54175d061e70c1755d961.ctex::
+Terrain (16x16).png::CompressedTexture2D::5820599989421500494::1787729303::1787729303::1::::<><><>0<>0<>02cdf18d05e87312083ecccefd0fc848<>res://.godot/imported/Terrain (16x16).png-1db6c4f451bad98efb8c231dcaf2c1e4.ctex::
+::res://assets/sounds/::1787729303
+collect_apple.wav::AudioStreamWAV::934767307007611135::1787729303::1787729303::1::::<><><>0<>0<>bdc640b9b35a5d655c2bbdf910d07973<>res://.godot/imported/collect_apple.wav-a192fbe7570c07e26a2dd96b167269b7.sample::
+death.wav::AudioStreamWAV::1564907940697247631::1787729303::1787729303::1::::<><><>0<>0<>b4b4ce92605b144054502a38d0ca95de<>res://.godot/imported/death.wav-75b3b960b42f4ac0e66fdefe9fd48ee1.sample::
+jump.wav::AudioStreamWAV::6220011588435420929::1787729303::1787729303::1::::<><><>0<>0<>cf3f492daffd33f24f75278eebff6020<>res://.godot/imported/jump.wav-395b727cde98999423d5c020c9c3492f.sample::
+music.ogg::AudioStreamOggVorbis::4217081841084416228::1787729303::1787729303::1::::<><><>0<>0<>f3491ce3aa9d4bc35840ee90a65a83c5<>res://.godot/imported/music.ogg-a816242481c3cc8e174cac58f63e5379.oggvorbisstr::
+::res://Background/::1787980443
+._back.png::::-1::1787980442::1787980443::0::::<><><>0<>0<>ff43cba5918786c53d41f2edce98eb37<>::
+._middle.png::::-1::1787980442::1787980443::0::::<><><>0<>0<>a8e80f6de0aab329e973cfc6a91a2585<>::
+._props.png::::-1::1787980442::1787980443::0::::<><><>0<>0<>d0805986369a990d8316518879c7025f<>::
+::res://scenes/::1789716361
+flower.tscn::PackedScene::2762019009764114831::1788971572::0::1::::<><><>0<>0<><>::uid://i5osu3www7pi::::res://scripts/flower.gd<>uid://c0uo08qfc7yvr::::res://assets/images/Collectibles/flower straight (2).png<>uid://nk2qmaiqi8nb::::res://assets/sounds/collect_apple.wav
+main.tscn::PackedScene::6455220682852277057::1789716361::0::1::::<><><>0<>0<><>::uid://dd1w368jq85f0::::res://scripts/main.gd<>uid://hv51mict8e63::::res://scenes/levels/level1.tscn<>uid://p17da3mb668t::::res://assets/fonts/Square-Black.ttf
+opposum.tscn::PackedScene::6353325061903606877::1788959144::0::1::::<><><>0<>0<><>::uid://71a6nerxudxt::::res://scripts/opposum.gd<>uid://lswdydyolbtv::::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Opossum/spritesheet.png
+player.tscn::PackedScene::6334663250427726339::1788963477::0::1::::<><><>0<>0<><>::uid://bhprbwx8gcil3::::res://scripts/player.gd<>uid://5x4ckdo16q4l::::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Dizzy/spritesheet.png<>uid://b7h8f5j185mp2::::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/jump/spritesheet.png<>uid://c75qxpoj31x3a::::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Hurt2/spritesheet.png<>uid://cymvt2ftvx2i2::::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/idle/spritesheet.png<>uid://dd3fhgyie2jbv::::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/run/spritesheet.png<>uid://b0ru61nc4f2r5::::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Wall Grab/spritesheet.png<>uid://wkb2m0roibed::::res://assets/sounds/death.wav
+::res://scenes/levels/::1789714936
+level1.tscn::PackedScene::536542421482204226::1789714935::0::1::::<><><>0<>0<><>::uid://cc70ep4xrdv6s::::res://Sunny-land-files/Sunny-land-files/Assets/environment/tileset.png<>uid://wtrjdojj1spy::::res://Sunny-land-files/Sunny-land-files/Assets/environment/Background/back.png<>uid://cwis8i3kf8pqp::::res://scenes/player.tscn<>uid://cwruln47mn3d6::::res://scenes/opposum.tscn<>uid://bfl7bxjx31nmt::::res://scenes/flower.tscn<>uid://cm4rgbr5hmdb6::::res://assets/images/Tilemap/Checkpoint (Flag Idle)(64x64).png
+level2.tscn::PackedScene::589421336404728834::1789714936::0::1::::<><><>0<>0<><>::uid://wtrjdojj1spy::::res://Sunny-land-files/Sunny-land-files/Assets/environment/Background/back.png<>uid://cc70ep4xrdv6s::::res://Sunny-land-files/Sunny-land-files/Assets/environment/tileset.png<>uid://cwis8i3kf8pqp::::res://scenes/player.tscn<>uid://cwruln47mn3d6::::res://scenes/opposum.tscn<>uid://bfl7bxjx31nmt::::res://scenes/flower.tscn<>uid://cm4rgbr5hmdb6::::res://assets/images/Tilemap/Checkpoint (Flag Idle)(64x64).png
+::res://scripts/::1789716273
+flower.gd::GDScript::624325358666478422::1788971538::0::1::::<>Area2D<><>0<>0<><>::
+main.gd::GDScript::7424889859303186083::1789716273::0::1::::<>Node2D<><>0<>0<><>::
+opposum.gd::GDScript::2299772867420340061::1788959693::0::1::::<>Area2D<><>0<>0<><>::
+player.gd::GDScript::2909743422692839170::1789709468::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://Sunny-land-files/::1787980441
+::res://Sunny-land-files/__MACOSX/::1787980441
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/::1787980441
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/::1787980443
+._preview.png::CompressedTexture2D::1751680797635485136::1787980441::1787980443::0::::<><><>0<>0<>93078aeee312c23551836b5b5e558d17<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/eagle/::1787980441
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/eagle/Previews/::1787980441
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/eagle/Sprites/::1787980441
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/eagle/Sprites/attack/::1787980443
+._eagle-attack-1.png::CompressedTexture2D::8158046646654588561::1787980441::1787980443::0::::<><><>0<>0<>ed368fd432c72f4e43f9005a58b6b42c<>::
+._eagle-attack-2.png::CompressedTexture2D::3312605105780255879::1787980441::1787980443::0::::<><><>0<>0<>df7a2b84ca154da8f0912ef1a4a6c2b9<>::
+._eagle-attack-3.png::CompressedTexture2D::6151359388391041387::1787980441::1787980443::0::::<><><>0<>0<>08f9170f20031e135efc754ad2eef1f9<>::
+._eagle-attack-4.png::CompressedTexture2D::125636170799492484::1787980441::1787980443::0::::<><><>0<>0<>06c9a7c9c401a433a2744757c484abff<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/eagle/Spritesheets/::1787980443
+._eagle-attack.png::CompressedTexture2D::1771335958018800653::1787980441::1787980443::0::::<><><>0<>0<>7caf4c495ae676a0d304b28b4184939f<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/::1787980443
+._atlas.png::CompressedTexture2D::3273859599442924165::1787980441::1787980443::0::::<><><>0<>0<>26a4555d18abee29d281d279c2e28e91<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/climb/::1787980443
+._spritesheet.png::CompressedTexture2D::2225447423766678542::1787980441::1787980443::0::::<><><>0<>0<>3dd8bcf0280a10664a0611ea8603eb9c<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/climb/sprites/::1787980443
+._f-01.png::CompressedTexture2D::7475623155735653261::1787980441::1787980443::0::::<><><>0<>0<>2a43bf655df266e85d49a20d6e2d542c<>::
+._f-02.png::CompressedTexture2D::5082440957063681252::1787980441::1787980443::0::::<><><>0<>0<>85b310fabae0cafec71a8f566ea2957f<>::
+._f-03.png::CompressedTexture2D::1848045839887132054::1787980441::1787980443::0::::<><><>0<>0<>2a32008ad23227b0e51500f946a3ebd0<>::
+._f-04.png::CompressedTexture2D::4427442210434868268::1787980441::1787980443::0::::<><><>0<>0<>659f9a845818dc56b2f4748fdf6c5079<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/crouch/::1787980443
+._spritesheet.png::CompressedTexture2D::8714647299691268409::1787980441::1787980443::0::::<><><>0<>0<>d536d578ac8536a2938e8c517cbab8b1<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/crouch/sprites/::1787980443
+._f-01.png::CompressedTexture2D::3905777351825516546::1787980441::1787980443::0::::<><><>0<>0<>f98356d209656326e9b0dca1fed64f98<>::
+._f-02.png::CompressedTexture2D::5186996650605800118::1787980441::1787980443::0::::<><><>0<>0<>a8ffe363dc1718d3040eae450ca2adfb<>::
+._f-03.png::CompressedTexture2D::672002519300986884::1787980441::1787980443::0::::<><><>0<>0<>f0b73a3746b89d743f11573bd3503bdd<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/Dizzy/::1787980443
+._spritesheet.png::CompressedTexture2D::7138038700455311254::1787980441::1787980443::0::::<><><>0<>0<>63006095eed714fab8b8a177cde158a8<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/Dizzy/sprites/::1787980443
+._f-01.png::CompressedTexture2D::7325042667303404356::1787980441::1787980443::0::::<><><>0<>0<>695acb02980a1603cd3649418f8b33a2<>::
+._f-02.png::CompressedTexture2D::3006746236452660408::1787980441::1787980443::0::::<><><>0<>0<>77e840fb865e5b77b6c2fa0ab4b137a7<>::
+._f-03.png::CompressedTexture2D::3685478250725487572::1787980441::1787980443::0::::<><><>0<>0<>77b61cbeb87ff3396fce43bf12aa9a80<>::
+._f-04.png::CompressedTexture2D::1872210922353492680::1787980441::1787980443::0::::<><><>0<>0<>09d8e5b79b25a969a82e2d0cfe898343<>::
+._f-05.png::CompressedTexture2D::31016409790637496::1787980441::1787980443::0::::<><><>0<>0<>d24f4f97aaf31050bf457fca8a449c9f<>::
+._f-06.png::CompressedTexture2D::7122904694029085531::1787980441::1787980443::0::::<><><>0<>0<>e7cea10d1705be9806cd689855742d48<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/hurt/::1787980443
+._spritesheet.png::CompressedTexture2D::1462838664399390960::1787980441::1787980443::0::::<><><>0<>0<>e0974c3efb2fd3ae6ad4f1b45cc3ba47<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/hurt/sprites/::1787980443
+._f-01.png::CompressedTexture2D::7513538656346784782::1787980441::1787980443::0::::<><><>0<>0<>c9f8c0233e68e609e0be937285d6db30<>::
+._f-02.png::CompressedTexture2D::7655704274856156777::1787980441::1787980443::0::::<><><>0<>0<>75008416d8f14957d42e6c403704bc27<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/Hurt2/::1787980443
+._spritesheet.png::CompressedTexture2D::2009138813501023525::1787980441::1787980443::0::::<><><>0<>0<>8cac00604da9d0773e072a3d3677f4d7<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/Hurt2/sprites/::1787980443
+._f-01.png::CompressedTexture2D::3786025111113188028::1787980441::1787980443::0::::<><><>0<>0<>9a4143506a09cdccc5f4935b1f843fc6<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/idle/::1787980443
+._spritesheet.png::CompressedTexture2D::9109863144635981830::1787980441::1787980443::0::::<><><>0<>0<>b28a34cba194f2ff7603728908af73f8<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/idle/sprites/::1787980443
+._f-01.png::CompressedTexture2D::4142780740811000802::1787980441::1787980443::0::::<><><>0<>0<>c01e7940cade49a3056e501fdf042420<>::
+._f-02.png::CompressedTexture2D::1938097940106347008::1787980441::1787980443::0::::<><><>0<>0<>805556eb9d9b529fc05e90b8cce0fb44<>::
+._f-03.png::CompressedTexture2D::8267864783844056844::1787980441::1787980443::0::::<><><>0<>0<>e712f52ca3ebd4f22c6bdcea93129e41<>::
+._f-04.png::CompressedTexture2D::2355076775364998484::1787980441::1787980443::0::::<><><>0<>0<>f6d19057b0fbc37b7526b1723914e988<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/jump/::1787980443
+._spritesheet.png::CompressedTexture2D::4501605439957814067::1787980441::1787980443::0::::<><><>0<>0<>bd9922e6f4c04b5aac79b95f76985b1d<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/jump/sprites/::1787980443
+._f-01.png::CompressedTexture2D::1712131361888699999::1787980441::1787980443::0::::<><><>0<>0<>fb26c5b2aeff84daa5a55b6a53dadb4a<>::
+._f-02.png::CompressedTexture2D::916877147625107314::1787980441::1787980443::0::::<><><>0<>0<>86a6e80d2c15739b05c9971110d2af81<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/LookUp/::1787980443
+._spritesheet.png::CompressedTexture2D::704592033090885392::1787980441::1787980443::0::::<><><>0<>0<>9c76b27afa5d63b547070ab4dd374bad<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/LookUp/sprites/::1787980443
+._f-01.png::CompressedTexture2D::2467600004248835364::1787980441::1787980443::0::::<><><>0<>0<>dbf2f747b1d57bacc661da8eb934689b<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/Roll/::1787980443
+._spritesheet.png::CompressedTexture2D::2461438080296919535::1787980441::1787980443::0::::<><><>0<>0<>7629f2ec83a396ca2f04c1c2abc2f1e7<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/Roll/sprites/::1787980443
+._f-01.png::CompressedTexture2D::7034171535836682545::1787980441::1787980443::0::::<><><>0<>0<>b9096eae254191f20ede752072855b60<>::
+._f-02.png::CompressedTexture2D::2744568996376366032::1787980441::1787980443::0::::<><><>0<>0<>50d32da05f5c7bd986702e17454c5bc0<>::
+._f-03.png::CompressedTexture2D::3900832116530541698::1787980441::1787980443::0::::<><><>0<>0<>d289ab5fd149e0ec8ddcb4cfaae1c7d3<>::
+._f-04.png::CompressedTexture2D::6736195596807884158::1787980441::1787980443::0::::<><><>0<>0<>cc4c5e8897d5d119c98c819018bfb654<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/run/::1787980443
+._spritesheet.png::CompressedTexture2D::6615060656834619502::1787980442::1787980443::0::::<><><>0<>0<>626acb29a68b40f473b1a29dce13a624<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/run/sprites/::1787980443
+._f-01.png::CompressedTexture2D::3750354541292577391::1787980442::1787980443::0::::<><><>0<>0<>f6fea93a3422d297a37335e229c43f86<>::
+._f-02.png::CompressedTexture2D::6985392230173579166::1787980442::1787980443::0::::<><><>0<>0<>8c520bfb79e351459b238d3351026e08<>::
+._f-03.png::CompressedTexture2D::8991096821684366439::1787980442::1787980443::0::::<><><>0<>0<>d54cb43a84c34cbf852fa131a64fc95c<>::
+._f-04.png::CompressedTexture2D::3594358809763240722::1787980442::1787980443::0::::<><><>0<>0<>68a2a4682be64adadaaf6e9f2fc58d2b<>::
+._f-05.png::CompressedTexture2D::5710947609974813068::1787980442::1787980443::0::::<><><>0<>0<>0e88b42baee34b0fdd5a313414d7382b<>::
+._f-06.png::CompressedTexture2D::7756455092062059500::1787980442::1787980443::0::::<><><>0<>0<>9fda11d9e742bed0b80d8bc5d7752199<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/Victory/::1787980443
+._spritesheet.png::CompressedTexture2D::4655310149678216816::1787980442::1787980443::0::::<><><>0<>0<>c86cc40c10a45c1b617c58f4441c83aa<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/Victory/sprites/::1787980443
+._f-01.png::CompressedTexture2D::4705658008627416796::1787980442::1787980443::0::::<><><>0<>0<>d1ecdbebd3809547bcc6a8241e4ca13b<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/Wall Grab/::1787980443
+._spritesheet.png::CompressedTexture2D::7110719286890021719::1787980442::1787980443::0::::<><><>0<>0<>efe6a38a3c6d835334ae10e634103f57<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Foxy/Wall Grab/sprites/::1787980443
+._f-01.png::CompressedTexture2D::2265661847585088397::1787980442::1787980443::0::::<><><>0<>0<>80fc079ad55be1aa9604c0a685889d51<>::
+._f-02.png::CompressedTexture2D::5523033949540944860::1787980442::1787980443::0::::<><><>0<>0<>ec84cc7636b8035f995dbdbb34be3d60<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/frog/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/frog/Previews/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/frog/Sprites/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/frog/Sprites/idle/::1787980443
+._frog-idle-1.png::CompressedTexture2D::1117826357553768225::1787980442::1787980443::0::::<><><>0<>0<>829e3872405d51d67ec5d4131ec5c8fa<>::
+._frog-idle-2.png::CompressedTexture2D::7492625993005316589::1787980442::1787980443::0::::<><><>0<>0<>5e6d948f81c216bd4fc4e79a601f3cdc<>::
+._frog-idle-3.png::CompressedTexture2D::7166866059384848096::1787980442::1787980443::0::::<><><>0<>0<>d926d929358993f3c948db3324da0929<>::
+._frog-idle-4.png::CompressedTexture2D::7733097562282257126::1787980442::1787980443::0::::<><><>0<>0<>2ce711a890382342fd7d80fc935935a7<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/frog/Sprites/jump/::1787980443
+._frog-jump-1.png::CompressedTexture2D::2728257602488840814::1787980442::1787980443::0::::<><><>0<>0<>c896ebaa87e6bc5697e5c671b1a43af1<>::
+._frog-jump-2.png::CompressedTexture2D::1056470264168652498::1787980442::1787980443::0::::<><><>0<>0<>3238ef7480a81556a96983b77b220c5d<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/frog/Spritesheets/::1787980443
+._frog-idle.png::CompressedTexture2D::7290967751379769205::1787980442::1787980443::0::::<><><>0<>0<>3574c83eaf768fceda4b64a3cab4fbef<>::
+._frog-jump.png::CompressedTexture2D::7500765702118744735::1787980442::1787980443::0::::<><><>0<>0<>3430aef213aa4cf9036f7dfa913f7fc7<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Opossum/::1787980443
+._spritesheet.png::CompressedTexture2D::1322527587442880044::1787980442::1787980443::0::::<><><>0<>0<>0802b23835e09cbf426d04b3dffc78ea<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Characters/Opossum/opossum/::1787980443
+._opossum-1.png::CompressedTexture2D::4095521113487740201::1787980442::1787980443::0::::<><><>0<>0<>f0c1fb70eea20a405dc2167f9117d211<>::
+._opossum-2.png::CompressedTexture2D::8762290288862104259::1787980442::1787980443::0::::<><><>0<>0<>94f573b4a4fe9c1e76c188cc43c97728<>::
+._opossum-3.png::CompressedTexture2D::2105767567541117029::1787980442::1787980443::0::::<><><>0<>0<>93c9b4630ee12826fb3e8600e50a9f6a<>::
+._opossum-4.png::CompressedTexture2D::2307597154367411711::1787980442::1787980443::0::::<><><>0<>0<>c5430cc9a1387e7b6f3c87ab7d66d40f<>::
+._opossum-5.png::CompressedTexture2D::2482958072546404722::1787980442::1787980443::0::::<><><>0<>0<>243f2e8fe8630667f2ca39d5a88ea3ae<>::
+._opossum-6.png::CompressedTexture2D::7153885509047780999::1787980442::1787980443::0::::<><><>0<>0<>35e744f6516f1c6b3334f7760b710ba9<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/environment/::1787990121
+._tileset.png::CompressedTexture2D::4296642272539993658::1787980442::1787980443::0::::<><><>0<>0<>361c3b552a622abde828d93b8a95c7a2<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/environment/Props/::1787980443
+._big-crate.png::CompressedTexture2D::1314981758881355470::1787980442::1787980443::0::::<><><>0<>0<>41a04bce3e5825700fd4846b10dec689<>::
+._block-big.png::CompressedTexture2D::3177154969374774861::1787980442::1787980443::0::::<><><>0<>0<>ba26d7bddbde8d2df41699333b1d9265<>::
+._block.png::CompressedTexture2D::1043625064444392486::1787980442::1787980443::0::::<><><>0<>0<>95c8b8b0e2f228cb0b504b55bb6d1a56<>::
+._bush.png::CompressedTexture2D::391269527869308666::1787980442::1787980443::0::::<><><>0<>0<>19fe8b795dbbae898ef9d18454fd2199<>::
+._crank-down.png::CompressedTexture2D::6844478866070812080::1787980442::1787980443::0::::<><><>0<>0<>deb7a836a6679603c9270baa2899bf8c<>::
+._crank-up.png::CompressedTexture2D::4538123567757627843::1787980442::1787980443::0::::<><><>0<>0<>c31b3897a670c5d211ea391eebbf7061<>::
+._crate.png::CompressedTexture2D::5051507893982578434::1787980442::1787980443::0::::<><><>0<>0<>07a4f9786d32d240257a6aa7c6cfa13b<>::
+._door-opened.png::CompressedTexture2D::1302090184965385885::1787980442::1787980443::0::::<><><>0<>0<>ad93ae63e494b9c75facebc1dda86369<>::
+._door.png::CompressedTexture2D::6360339878027353888::1787980442::1787980443::0::::<><><>0<>0<>f0340dda1d81887fc2eb9df5aba04357<>::
+._face-block.png::CompressedTexture2D::3290903067550286371::1787980442::1787980443::0::::<><><>0<>0<>7bdd138f04f75b74f89b56596d69aa46<>::
+._house.png::CompressedTexture2D::446106258508668416::1787980442::1787980443::0::::<><><>0<>0<>09ff2395a127fed7f67a33d5c46221a6<>::
+._palm.png::CompressedTexture2D::828684801581820190::1787980442::1787980443::0::::<><><>0<>0<>00e9340934d44d1773d39de9225ff7e1<>::
+._pine.png::CompressedTexture2D::728543605369560787::1787980442::1787980443::0::::<><><>0<>0<>04e74b76a0442db3ce00c0e65a9ceb72<>::
+._plant-house.png::CompressedTexture2D::6427240047564048877::1787980442::1787980443::0::::<><><>0<>0<>fe3d245f19b84ff8937e8a0135ddaac0<>::
+._platform-long.png::CompressedTexture2D::551235861345861010::1787980442::1787980443::0::::<><><>0<>0<>8ab57287c16a25f64b4cb31e8abb71f4<>::
+._rock-1.png::CompressedTexture2D::761680953404326647::1787980442::1787980443::0::::<><><>0<>0<>c79fc6862c8b647f17eb8c87216477c8<>::
+._rock-2.png::CompressedTexture2D::3446947312175837523::1787980442::1787980443::0::::<><><>0<>0<>c8360dfd2faab9e07e3894a8af3b7030<>::
+._rock.png::CompressedTexture2D::1446227768760346729::1787980442::1787980443::0::::<><><>0<>0<>fd81d37de3de6a94f6a6badbaa4aa39e<>::
+._shrooms.png::CompressedTexture2D::3032817503171031377::1787980442::1787980443::0::::<><><>0<>0<>4b32d463df0b53b9931811303bf3ec3c<>::
+._sign.png::CompressedTexture2D::4031101652419395013::1787980442::1787980443::0::::<><><>0<>0<>a2ca47f16ed188b25bfb47ef34ddbf69<>::
+._skulls.png::CompressedTexture2D::2862881134229180992::1787980442::1787980443::0::::<><><>0<>0<>28e0994c9922bc53f97b3ed057cccef4<>::
+._small-platform.png::CompressedTexture2D::7707867414616523982::1787980442::1787980443::0::::<><><>0<>0<>29b5974b88bfe2f4e96f2a98b812d515<>::
+._spike-skull.png::CompressedTexture2D::5234492840156875532::1787980442::1787980443::0::::<><><>0<>0<>cc4d8496ee1566e821fcc4cca2dfef69<>::
+._spikes-top.png::CompressedTexture2D::5557331473453760545::1787980442::1787980443::0::::<><><>0<>0<>5a43d26264957b98c30550c402c5cbb0<>::
+._spikes.png::CompressedTexture2D::5924509091219358176::1787980442::1787980443::0::::<><><>0<>0<>51cd1a76305b650c7db82ad5d31901a7<>::
+._straw-house.png::CompressedTexture2D::1072370752005777244::1787980442::1787980443::0::::<><><>0<>0<>b0a0b4f8dc820dd499201b798a1104a8<>::
+._tree-house.png::CompressedTexture2D::4143427078129612627::1787980442::1787980443::0::::<><><>0<>0<>549367430402b6a76c8fee68095a5243<>::
+._tree.png::CompressedTexture2D::1066844531448074531::1787980442::1787980443::0::::<><><>0<>0<>898bbc5846461f3dca92d69bbe090f95<>::
+._wooden-house.png::CompressedTexture2D::2412132693818230811::1787980442::1787980443::0::::<><><>0<>0<>d37ac5c9e6fe4a10b237e9f5d5e22756<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/environment/PSD/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/environment/PSD/environment/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/environment/PSD/MISC/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/Sunnyland FX/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/Sunnyland FX/Previews/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/Sunnyland FX/Sprites/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/Sunnyland FX/Sprites/enemy-death/::1787980443
+._enemy-death-1.png::CompressedTexture2D::8213858387867735114::1787980442::1787980443::0::::<><><>0<>0<>3452e40a10b0bb987a5d039a834f6376<>::
+._enemy-death-2.png::CompressedTexture2D::1825266571695232407::1787980442::1787980443::0::::<><><>0<>0<>5190e1e1a67912bd428c9a9e5a80b171<>::
+._enemy-death-3.png::CompressedTexture2D::4587634347886925854::1787980442::1787980443::0::::<><><>0<>0<>1d22187ec84f9db64117bc556ed5e7c9<>::
+._enemy-death-4.png::CompressedTexture2D::569652961627793199::1787980442::1787980443::0::::<><><>0<>0<>3bc92631a7d0c949017b4f7d7352f505<>::
+._enemy-death-5.png::CompressedTexture2D::4939551132476084436::1787980442::1787980443::0::::<><><>0<>0<>7775beff02c863ec29e5de76a1d5b7b7<>::
+._enemy-death-6.png::CompressedTexture2D::6981613684216683226::1787980442::1787980443::0::::<><><>0<>0<>0799ee2a980146226a624b667bee3f1d<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/Sunnyland FX/Sprites/item-feedback/::1787980443
+._item-feedback-1.png::CompressedTexture2D::5374654696631200674::1787980442::1787980443::0::::<><><>0<>0<>b35c3c875e211b9094d934a6bdd69369<>::
+._item-feedback-2.png::CompressedTexture2D::6296975796201539871::1787980442::1787980443::0::::<><><>0<>0<>a160976bdb00266061ffc4b137cda36f<>::
+._item-feedback-3.png::CompressedTexture2D::4255151824220012937::1787980442::1787980443::0::::<><><>0<>0<>bbb025015a18e7ef6eeab7026c1b1251<>::
+._item-feedback-4.png::CompressedTexture2D::5523275312871336062::1787980442::1787980443::0::::<><><>0<>0<>0489c9984fd3bb7664df5365db16c399<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/Sunnyland FX/Spritesheets/::1787980443
+._enemy-deadth.png::CompressedTexture2D::879359736291829314::1787980442::1787980443::0::::<><><>0<>0<>8bd4b5cdac9174f7bea06f3ffe960a6f<>::
+._item-feedback.png::CompressedTexture2D::4835630771858779578::1787980442::1787980443::0::::<><><>0<>0<>d051d5879e054f575c4d993cd60e0ee6<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/Sunnyland items/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/Sunnyland items/Previews/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/Sunnyland items/Sprites/::1787980442
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/Sunnyland items/Sprites/cherry/::1787980443
+._cherry-1.png::CompressedTexture2D::7891641822145250412::1787980442::1787980443::0::::<><><>0<>0<>b51f9a573218b401760066290a4c7930<>::
+._cherry-2.png::CompressedTexture2D::3075470697604096::1787980442::1787980443::0::::<><><>0<>0<>282bd995951bbc0577e972347d82b375<>::
+._cherry-3.png::CompressedTexture2D::5165859509927158842::1787980442::1787980443::0::::<><><>0<>0<>b0b84fbd845d2e56f5103ac1a907c561<>::
+._cherry-4.png::CompressedTexture2D::9012497327266565252::1787980442::1787980443::0::::<><><>0<>0<>8cad27bf71b2e2e71bfcf0878bf93188<>::
+._cherry-5.png::CompressedTexture2D::8714377127123510747::1787980442::1787980443::0::::<><><>0<>0<>09aa174d8c2a2a07ac3766f83dfab5e8<>::
+._cherry-6.png::CompressedTexture2D::2434790769343084242::1787980442::1787980443::0::::<><><>0<>0<>fc2a227f87fbf867fb553d3b8bd17fa5<>::
+._cherry-7.png::CompressedTexture2D::1374338736880418608::1787980442::1787980443::0::::<><><>0<>0<>3d003b6887520142cd8484e075aca13c<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/Sunnyland items/Sprites/gem/::1787980443
+._gem-1.png::CompressedTexture2D::28230572866761924::1787980442::1787980443::0::::<><><>0<>0<>6a0c0965d5a0483fad8306a27cf463bc<>::
+._gem-2.png::CompressedTexture2D::5053592287211510543::1787980442::1787980443::0::::<><><>0<>0<>c2e6b6851d1e60ab0335fbd48b601831<>::
+._gem-3.png::CompressedTexture2D::6000762219200978315::1787980442::1787980443::0::::<><><>0<>0<>8342e58d5fdb7d656e013f06b796d9dc<>::
+._gem-4.png::CompressedTexture2D::4386485122961547647::1787980442::1787980443::0::::<><><>0<>0<>2f7536f17f7485c8c4c6173c9c093776<>::
+._gem-5.png::CompressedTexture2D::7798071594914236407::1787980442::1787980443::0::::<><><>0<>0<>43e5596e42e36c79855f4ff6372d77e2<>::
+::res://Sunny-land-files/__MACOSX/Sunny-land-files/Assets/Misc/Sunnyland items/Spritesheets/::1787980443
+._cherry.png::CompressedTexture2D::8973058009677359662::1787980442::1787980443::0::::<><><>0<>0<>5eb5c2fce3f5b27f01c120c62a17cfb1<>::
+._gem.png::CompressedTexture2D::4765620384498443711::1787980442::1787980443::0::::<><><>0<>0<>1a8af4da12db8ba0d282a70922c92a32<>::
+::res://Sunny-land-files/Sunny-land-files/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/::1787980443
+preview.png::CompressedTexture2D::6763191816064115881::1787980441::1787980443::1::::<><><>0<>0<>e88d1ebdf25e1b60211ae4d589d08922<>res://.godot/imported/preview.png-eb92709171a398d414596abd2b64fab3.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/eagle/::1787980440
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/eagle/Previews/::1787980440
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/eagle/Sprites/::1787980440
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/eagle/Sprites/attack/::1787980442
+eagle-attack-1.png::CompressedTexture2D::6492041841847367772::1787980440::1787980442::1::::<><><>0<>0<>d49cb855ca3104c1baeedb6f12794a5c<>res://.godot/imported/eagle-attack-1.png-3fb9f8bca2029df5aa65f50d25878618.ctex::
+eagle-attack-2.png::CompressedTexture2D::7057659053658065349::1787980440::1787980442::1::::<><><>0<>0<>80f5fcf7ba01c9aa56065d938d9d8c6d<>res://.godot/imported/eagle-attack-2.png-543234edce041808dfd7189386c7496a.ctex::
+eagle-attack-3.png::CompressedTexture2D::208665902656923277::1787980440::1787980442::1::::<><><>0<>0<>666d94eca9224d6ff4a3f37a80e6e603<>res://.godot/imported/eagle-attack-3.png-33f0a627ca99393fe1f87559ce84e8ed.ctex::
+eagle-attack-4.png::CompressedTexture2D::4922828860979609860::1787980440::1787980442::1::::<><><>0<>0<>dc91f7d9f2d64db6e41eb0ee4ebca70f<>res://.godot/imported/eagle-attack-4.png-38d3ad0582c3eff4e87afbf36bf8056c.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/eagle/Spritesheets/::1787980442
+eagle-attack.png::CompressedTexture2D::1843249796021367501::1787980440::1787980442::1::::<><><>0<>0<>9ace50f301a9b8a5861117a61a8d7189<>res://.godot/imported/eagle-attack.png-b68473d8819464ceb5d2fe8450d886c5.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/::1787980442
+atlas.png::CompressedTexture2D::230744496134279229::1787980440::1787980442::1::::<><><>0<>0<>8af44ac64f85ea3bdd084c9dbea33903<>res://.godot/imported/atlas.png-1da393f7d096caa0d03960e7327e3f73.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/climb/::1787980443
+spritesheet.png::CompressedTexture2D::8860749600897020036::1787980440::1787980443::1::::<><><>0<>0<>c32e870e3ff98b802e5d05aa04cad6bc<>res://.godot/imported/spritesheet.png-0be58f133ada837a7100555f1890b0ac.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/climb/sprites/::1787980442
+f-01.png::CompressedTexture2D::8256686803692336142::1787980440::1787980442::1::::<><><>0<>0<>6cc34c4dd98b22b84ede4e1ea5702705<>res://.godot/imported/f-01.png-0923737f94c3d37862d793e289561427.ctex::
+f-02.png::CompressedTexture2D::1437240233691248332::1787980440::1787980442::1::::<><><>0<>0<>e737e871e7573584bbcf30019572f907<>res://.godot/imported/f-02.png-3e5f5976941a9ac1fed6d3637a0b3d31.ctex::
+f-03.png::CompressedTexture2D::6027028987992147587::1787980440::1787980442::1::::<><><>0<>0<>7648c08c7bb1262b377e7a04e0bce902<>res://.godot/imported/f-03.png-6dce96e8411e4bc26f12d6aec7c0707b.ctex::
+f-04.png::CompressedTexture2D::576507349490987233::1787980440::1787980442::1::::<><><>0<>0<>881ef9446a8e1212c2ecee2f1c785ebd<>res://.godot/imported/f-04.png-bc9bb81678873bdfc02eadb3e1596c8f.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/crouch/::1787980443
+spritesheet.png::CompressedTexture2D::9189837068631059810::1787980440::1787980443::1::::<><><>0<>0<>8afa0b8e0c95bce70143278c13c0c124<>res://.godot/imported/spritesheet.png-a42a855edfe102fa7a847f2c04334117.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/crouch/sprites/::1787980443
+f-01.png::CompressedTexture2D::7535877779819431233::1787980440::1787980443::1::::<><><>0<>0<>98d10a511d864bd0d39e5c79cf2f2253<>res://.godot/imported/f-01.png-1d44913cf5785666bc17cf38410395bd.ctex::
+f-02.png::CompressedTexture2D::4438408408414413380::1787980440::1787980443::1::::<><><>0<>0<>40e6d0edd08ce85590d0e75d50309679<>res://.godot/imported/f-02.png-b63b149e0b95649d1196c2916e0587a9.ctex::
+f-03.png::CompressedTexture2D::3265000225239948421::1787980440::1787980443::1::::<><><>0<>0<>078556e1ed911e3781fccf05e110bb9a<>res://.godot/imported/f-03.png-7a6dac5d6cb03c4073574417ede2e36b.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Dizzy/::1787980443
+spritesheet.png::CompressedTexture2D::2154910892402376893::1787980440::1787980443::1::::<><><>0<>0<>76cab379c72c885db018e49fab020268<>res://.godot/imported/spritesheet.png-43be0adc66324f70e651cf03e82f8219.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Dizzy/sprites/::1787980443
+f-01.png::CompressedTexture2D::2197007238761349527::1787980440::1787980443::1::::<><><>0<>0<>92dcb9fb053243336d44c814e7d48120<>res://.godot/imported/f-01.png-892646087adc758f79083677a70aeb0e.ctex::
+f-02.png::CompressedTexture2D::8406375098885418458::1787980440::1787980443::1::::<><><>0<>0<>2f23c286d36cd64d5c3a293e0ea0f76f<>res://.godot/imported/f-02.png-8488f8f7721cd78c9990741c3b79345e.ctex::
+f-03.png::CompressedTexture2D::6658677020648764833::1787980440::1787980443::1::::<><><>0<>0<>96fef5a4b58614d8f758faf4063d1a91<>res://.godot/imported/f-03.png-565715603af347f01909f2d7992cf79e.ctex::
+f-04.png::CompressedTexture2D::9158530962705888347::1787980440::1787980443::1::::<><><>0<>0<>989a3d3a5e002ce2653395072694161d<>res://.godot/imported/f-04.png-f92bc6246e6332d7c011c98563fc03ab.ctex::
+f-05.png::CompressedTexture2D::5821094084214430975::1787980440::1787980443::1::::<><><>0<>0<>6bea06afd03bbdae00c1e95618a59aa5<>res://.godot/imported/f-05.png-05dccae09a5c41eb83c68217cce4c913.ctex::
+f-06.png::CompressedTexture2D::2802969611780346568::1787980440::1787980443::1::::<><><>0<>0<>fc6dd0231c55308ea69d534daec01a23<>res://.godot/imported/f-06.png-c14cff511929cd4dd5efb18767d8511f.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/hurt/::1787980443
+spritesheet.png::CompressedTexture2D::3156570340635218927::1787980440::1787980443::1::::<><><>0<>0<>160829b0232c3509b9bd34522fd7ca75<>res://.godot/imported/spritesheet.png-4f5da0ecffab2668d41db1f3c1308fd7.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/hurt/sprites/::1787980443
+f-01.png::CompressedTexture2D::509449063393019162::1787980440::1787980443::1::::<><><>0<>0<>91158c35378445c69149936a276826e8<>res://.godot/imported/f-01.png-98ded1d94d20ae3b38dd3675c3e4ac8c.ctex::
+f-02.png::CompressedTexture2D::8025577962750195158::1787980440::1787980443::1::::<><><>0<>0<>89149f18511030ceab6af271c75c6d55<>res://.godot/imported/f-02.png-a2f4bb9bb72ed6d5adfeeaf05d5b1e7b.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Hurt2/::1787980443
+spritesheet.png::CompressedTexture2D::7081829051494007364::1787980440::1787980443::1::::<><><>0<>0<>0b94235a706c93243b5ac8f23449fc2c<>res://.godot/imported/spritesheet.png-47ed2289f480e13535d7378bd162754b.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Hurt2/sprites/::1787980443
+f-01.png::CompressedTexture2D::2826868980319475159::1787980440::1787980443::1::::<><><>0<>0<>0cd020a1a0337cdf508ed13cd00613b9<>res://.godot/imported/f-01.png-c36cb31f259b14a232391d3211247627.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/idle/::1787980443
+spritesheet.png::CompressedTexture2D::6483456561426732991::1787980440::1787980443::1::::<><><>0<>0<>c1812e7991c30f3f28f1a4bfbac20ca2<>res://.godot/imported/spritesheet.png-2401ece4ac9a33caa6013f32fea68946.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/idle/sprites/::1787980443
+f-01.png::CompressedTexture2D::2721709267139481411::1787980440::1787980443::1::::<><><>0<>0<>49138925b0efdaafefafada8f87f8399<>res://.godot/imported/f-01.png-1f988715b1bb5d2a2652a47db2e3f719.ctex::
+f-02.png::CompressedTexture2D::3511319432853333834::1787980440::1787980443::1::::<><><>0<>0<>7b794a177ad426cb813ab5d70a90bec8<>res://.godot/imported/f-02.png-e4df6c6d8e1aa194329e6ae5749415e1.ctex::
+f-03.png::CompressedTexture2D::1029056412078707357::1787980440::1787980443::1::::<><><>0<>0<>3e9dffaad57f0a5f542ffe31d7851aa4<>res://.godot/imported/f-03.png-d0f79c8c4c56a5885a37f5907a5a6c67.ctex::
+f-04.png::CompressedTexture2D::6446330888890199250::1787980440::1787980443::1::::<><><>0<>0<>c2d70273c0145cbfd07cce62ad969d4f<>res://.godot/imported/f-04.png-e7720ec12cfe9f77f94a99455ec2c681.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/jump/::1787980442
+spritesheet.png::CompressedTexture2D::4648928504949731273::1787980440::1787980442::1::::<><><>0<>0<>1e170728af54ab0de8ecc98405956cc0<>res://.godot/imported/spritesheet.png-15dca272043ead48cb1248e3a75e06af.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/jump/sprites/::1787980443
+f-01.png::CompressedTexture2D::5262252697383979858::1787980440::1787980443::1::::<><><>0<>0<>8141ee587a98af160c54075684c7f43e<>res://.godot/imported/f-01.png-07c8bfb48cf78e7a202d40c160755125.ctex::
+f-02.png::CompressedTexture2D::866021078266946497::1787980440::1787980442::1::::<><><>0<>0<>f0f9978113ad56c563b9e73756215a3e<>res://.godot/imported/f-02.png-7f4f444f5133f99df201b9fce556f050.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/LookUp/::1787980442
+spritesheet.png::CompressedTexture2D::7525118066079405911::1787980440::1787980442::1::::<><><>0<>0<>5bbf3dcae49aa595573d7c7c26c89f34<>res://.godot/imported/spritesheet.png-cac5c3f45333e6104557418782044de0.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/LookUp/sprites/::1787980442
+f-01.png::CompressedTexture2D::8457269734492682609::1787980440::1787980442::1::::<><><>0<>0<>3d900dd405e1e93789c656d9925b2a45<>res://.godot/imported/f-01.png-3d236d031371c6784d9787193bac26f5.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Roll/::1787980442
+spritesheet.png::CompressedTexture2D::1155695925637843249::1787980440::1787980442::1::::<><><>0<>0<>c0925aa64f5881ca2c7a97f3e0946f09<>res://.godot/imported/spritesheet.png-c6910bc07cdc92068923f72791f35324.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Roll/sprites/::1787980442
+f-01.png::CompressedTexture2D::2420714263929005904::1787980440::1787980442::1::::<><><>0<>0<>3efd4485277b59c6e277888e97dc27b2<>res://.godot/imported/f-01.png-3adbc1852c58688a7aca17550715dd26.ctex::
+f-02.png::CompressedTexture2D::7106711526317295713::1787980440::1787980442::1::::<><><>0<>0<>8ba0141ae10a379336d37611b2361b92<>res://.godot/imported/f-02.png-cd7dee3d35bdacd5d1cee50c07a21a78.ctex::
+f-03.png::CompressedTexture2D::6671900986385739859::1787980440::1787980442::1::::<><><>0<>0<>e8e0dff4fac38b36c42d61da148b1e3c<>res://.godot/imported/f-03.png-3c5d257ab321d1fbb4cfa7d901f664ad.ctex::
+f-04.png::CompressedTexture2D::2281947118962046583::1787980440::1787980442::1::::<><><>0<>0<>8db7074ffae147189340e91aadefd439<>res://.godot/imported/f-04.png-27e0a99e9549a7348221504578346639.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/run/::1787980442
+spritesheet.png::CompressedTexture2D::7427947597213547891::1787980441::1787980442::1::::<><><>0<>0<>e5e22285a68a5a0187a4abcdb2670a58<>res://.godot/imported/spritesheet.png-9f77d5fb68fc45105f15a95553d5c10f.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/run/sprites/::1787980442
+f-01.png::CompressedTexture2D::4319572157400049928::1787980440::1787980442::1::::<><><>0<>0<>bd48bcf67c8097dcc823f7dac579c4a9<>res://.godot/imported/f-01.png-824e1be0c94846256b13d3578fd60a1d.ctex::
+f-02.png::CompressedTexture2D::3359393727970462158::1787980441::1787980442::1::::<><><>0<>0<>7ed2a13538792d7af42bfb57efea79d8<>res://.godot/imported/f-02.png-cc0645c2bacbf1827929701f3eae4208.ctex::
+f-03.png::CompressedTexture2D::5618881849779995926::1787980441::1787980442::1::::<><><>0<>0<>be4e3cc2b39ba7fffbcc1656bb06ce17<>res://.godot/imported/f-03.png-c05a30a6395d9a777b8851ba7c71b50e.ctex::
+f-04.png::CompressedTexture2D::3007353723040564081::1787980441::1787980442::1::::<><><>0<>0<>38d17cfc912cd10493d747e1d138591c<>res://.godot/imported/f-04.png-e847170281172312f0b13f10b775358c.ctex::
+f-05.png::CompressedTexture2D::2548010355911428496::1787980441::1787980442::1::::<><><>0<>0<>e2dcb57e20a2fb15b1ea6ff0914915d9<>res://.godot/imported/f-05.png-5b739ea96f04753406896957fabe37a5.ctex::
+f-06.png::CompressedTexture2D::5951248068692687779::1787980441::1787980442::1::::<><><>0<>0<>81eee287a6687cad6a141619a62fc6aa<>res://.godot/imported/f-06.png-51745761e84748b3d290a81940f86343.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Victory/::1787980442
+spritesheet.png::CompressedTexture2D::6299400798013637138::1787980441::1787980442::1::::<><><>0<>0<>0eacb7aad71134ff299504701fd23bd0<>res://.godot/imported/spritesheet.png-51206263309849029da6db61c4ecb54b.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Victory/sprites/::1787980442
+f-01.png::CompressedTexture2D::2119917678011287428::1787980441::1787980442::1::::<><><>0<>0<>23a4c3a42dec785160dc2a40bf6ae5af<>res://.godot/imported/f-01.png-b2f19a467892085aff98b54ab527c36b.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Wall Grab/::1787980442
+spritesheet.png::CompressedTexture2D::4177507281748721988::1787980441::1787980442::1::::<><><>0<>0<>d913dd31292529823f1a7d3c9d416661<>res://.godot/imported/spritesheet.png-f1e3a621fe5c06430e4505b903c35d35.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Foxy/Wall Grab/sprites/::1787980442
+f-01.png::CompressedTexture2D::5952908158963236823::1787980441::1787980442::1::::<><><>0<>0<>72d0ddcfbc4feb9c77bf34bd4150017d<>res://.godot/imported/f-01.png-1378ff5627b424155f767d078c7c6cc8.ctex::
+f-02.png::CompressedTexture2D::437041032828155723::1787980441::1787980442::1::::<><><>0<>0<>75251b53537f2245013d215b8a2986b0<>res://.godot/imported/f-02.png-c6394fb7eeae4e0c1ec95fd27129b60c.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/frog/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/frog/Previews/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/frog/Sprites/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/frog/Sprites/idle/::1787980442
+frog-idle-1.png::CompressedTexture2D::331967310342435096::1787980441::1787980442::1::::<><><>0<>0<>960851e5aca8428dd5a458d273bdb339<>res://.godot/imported/frog-idle-1.png-3ba291a57b57598ab82ff63e81d2bdb8.ctex::
+frog-idle-2.png::CompressedTexture2D::8579035318036515546::1787980441::1787980442::1::::<><><>0<>0<>fb16e853a254c68fd6b9cc7d4fa59a61<>res://.godot/imported/frog-idle-2.png-e8dd7498605a5107b6bf1ba44c288d62.ctex::
+frog-idle-3.png::CompressedTexture2D::2962268593812408526::1787980441::1787980442::1::::<><><>0<>0<>279790675d41be9f01aba547c5d61be9<>res://.godot/imported/frog-idle-3.png-8bde5a3279a14c87492f3d10cd0b15e1.ctex::
+frog-idle-4.png::CompressedTexture2D::8487135633227687714::1787980441::1787980442::1::::<><><>0<>0<>a78e88114018aaa3cd8f2bac1ed48ead<>res://.godot/imported/frog-idle-4.png-e70b3a5b0dfee77804f5578ffc94f498.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/frog/Sprites/jump/::1787980442
+frog-jump-1.png::CompressedTexture2D::4071429783593736227::1787980441::1787980442::1::::<><><>0<>0<>f60bc94fc1a46d6ee40f81b95fa3d56d<>res://.godot/imported/frog-jump-1.png-aac50b7653dbf81e6d85bba2b0541db3.ctex::
+frog-jump-2.png::CompressedTexture2D::5721176936770767605::1787980441::1787980442::1::::<><><>0<>0<>bade8d504ea17ff86b582205541fa37a<>res://.godot/imported/frog-jump-2.png-eff27a12d028a7056c2df9afa4372bbd.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/frog/Spritesheets/::1787980442
+frog-idle.png::CompressedTexture2D::2064038387488753540::1787980441::1787980442::1::::<><><>0<>0<>df5c8a33e55b69d1f3b45832e4f0e643<>res://.godot/imported/frog-idle.png-94a95e5c98d5bf347d5fc6671ed93338.ctex::
+frog-jump.png::CompressedTexture2D::7121243183267589161::1787980441::1787980442::1::::<><><>0<>0<>a05f800cf7882e06a529624650be2d82<>res://.godot/imported/frog-jump.png-93ba1cdc6e693eaeb810ddc2fd79ab69.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Opossum/::1787980443
+spritesheet.png::CompressedTexture2D::810578477118418839::1787980441::1787980443::1::::<><><>0<>0<>a4573e26cdad660127da793d0f80c55f<>res://.godot/imported/spritesheet.png-53e382550cb5d986269e138612c859ff.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Characters/Opossum/opossum/::1787980443
+opossum-1.png::CompressedTexture2D::6752904078006756133::1787980441::1787980442::1::::<><><>0<>0<>f898b3ed34db2414f9c6cec2326669b3<>res://.godot/imported/opossum-1.png-7a8c366e1eb8180a4735d2db83084da6.ctex::
+opossum-2.png::CompressedTexture2D::4141658070639819685::1787980441::1787980442::1::::<><><>0<>0<>c852114996a22158d1eba59164588d0c<>res://.godot/imported/opossum-2.png-0e787706711c6134d39c0d30a1cccb78.ctex::
+opossum-3.png::CompressedTexture2D::4919116505139679101::1787980441::1787980443::1::::<><><>0<>0<>051c60b4962a764227c596b8ad236170<>res://.godot/imported/opossum-3.png-b2a0e0fa92e6b909bffe002d3595b417.ctex::
+opossum-4.png::CompressedTexture2D::1474361829630126785::1787980441::1787980443::1::::<><><>0<>0<>a1557d56b9002ffa13392aa434f31d3d<>res://.godot/imported/opossum-4.png-f7ccc1a3679fe5133b73d6e4144829a0.ctex::
+opossum-5.png::CompressedTexture2D::8830823821180696900::1787980441::1787980443::1::::<><><>0<>0<>d1344b1ef8d41652f6398de54d764b78<>res://.godot/imported/opossum-5.png-70521af9f1184f36854eb23934af864d.ctex::
+opossum-6.png::CompressedTexture2D::209844777935814296::1787980441::1787980443::1::::<><><>0<>0<>c0ea22f812e5e5ed7a5a93da15696da6<>res://.godot/imported/opossum-6.png-44069509a418a3010e67c1aa8857c034.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/environment/::1787980443
+tileset.png::CompressedTexture2D::4980805044504416844::1787980441::1787980443::1::::<><><>0<>0<>15d4e0b9c9d6380bde2246934253b93e<>res://.godot/imported/tileset.png-131eae88b70f72fb28e03e4015a9bc56.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/environment/Background/::1787980443
+back.png::CompressedTexture2D::1584426178005323486::1787980441::1787980443::1::::<><><>0<>0<>119c83c2dbaabf581bd985293cc125df<>res://.godot/imported/back.png-fa7fa05a633ef8a3c6c71d5816f2fdbf.ctex::
+middle.png::CompressedTexture2D::1564148378519480156::1787980441::1787980443::1::::<><><>0<>0<>03f9ac19b4fb9bee11d0c453ba0505ca<>res://.godot/imported/middle.png-cf13dbc896b315fd1cb311a1abfe4199.ctex::
+props.png::CompressedTexture2D::1519603236857132852::1787980441::1787980443::1::::<><><>0<>0<>359ce2f73ea03bdb91f985731fee97c5<>res://.godot/imported/props.png-d9f67b54bbaf73fc1e253c18ad086ae3.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/environment/Props/::1787980443
+big-crate.png::CompressedTexture2D::5948392570377703804::1787980441::1787980443::1::::<><><>0<>0<>558ed6fcdaeac5b7270e7ff639e405a3<>res://.godot/imported/big-crate.png-4c2bb9859503fef12700446ababec13a.ctex::
+block-big.png::CompressedTexture2D::7238195571084578626::1787980441::1787980443::1::::<><><>0<>0<>05aca2941e6d58fab87aa4aaa4be8e95<>res://.godot/imported/block-big.png-853e210bd62de4df936a17f83de416af.ctex::
+block.png::CompressedTexture2D::5675516450186609019::1787980441::1787980443::1::::<><><>0<>0<>9c90ef972deeb6b982547a473fce2510<>res://.godot/imported/block.png-89a863fa8904b9339a9c4182025571bc.ctex::
+bush.png::CompressedTexture2D::159435013896660786::1787980441::1787980443::1::::<><><>0<>0<>eeef99a28cd5d951fd5b76ed50f1c135<>res://.godot/imported/bush.png-d0d533f94e5e353804f91be3528f33c4.ctex::
+crank-down.png::CompressedTexture2D::2325226985704297260::1787980441::1787980443::1::::<><><>0<>0<>5c732b8fab043d333b32c7afc66e31a8<>res://.godot/imported/crank-down.png-75024f252e4933a774817f2b805fcee2.ctex::
+crank-up.png::CompressedTexture2D::503314742627687888::1787980441::1787980443::1::::<><><>0<>0<>133b5cd6bb725da3c111c7b7e3f09dcd<>res://.godot/imported/crank-up.png-a10184bfe3550d005b89a79ccb90495b.ctex::
+crate.png::CompressedTexture2D::2319195944988781095::1787980441::1787980443::1::::<><><>0<>0<>7c3cebe92b2f6f076e0cc89e19fbe972<>res://.godot/imported/crate.png-41eb41e2f8b0f849e5a85b108a0f5ed3.ctex::
+door-opened.png::CompressedTexture2D::3123476154191660863::1787980441::1787980443::1::::<><><>0<>0<>76d37fcd99ff24989e2e2e0ad21e1fa6<>res://.godot/imported/door-opened.png-7954543b5d6edadae224216e70576d28.ctex::
+door.png::CompressedTexture2D::286330898179501459::1787980441::1787980443::1::::<><><>0<>0<>652b943f50c88f0f27fd0cf21dbd1a7b<>res://.godot/imported/door.png-c319c03752089b0b8604f5a1ef03aab3.ctex::
+face-block.png::CompressedTexture2D::6461897418583733135::1787980441::1787980443::1::::<><><>0<>0<>f87d4a575883faa4b7631207bff14833<>res://.godot/imported/face-block.png-b0db0874d1a0b8e15366462b3f04f92e.ctex::
+house.png::CompressedTexture2D::6112286310780531984::1787980441::1787980443::1::::<><><>0<>0<>d8847e69535de4a2d67941c8aa82b75b<>res://.godot/imported/house.png-8a24de8817dea0f4a35656376d449c1d.ctex::
+palm.png::CompressedTexture2D::5122573136888327335::1787980441::1787980443::1::::<><><>0<>0<>a700050e0b62eb7b99e8190f0b6bdc4e<>res://.godot/imported/palm.png-618ec3ca179b126a4927183dea23668a.ctex::
+pine.png::CompressedTexture2D::7315157237408538543::1787980441::1787980443::1::::<><><>0<>0<>7384358c87b95495ea08cb1ce45d144a<>res://.godot/imported/pine.png-6c2eb60c0a201777f83cd31e33b611b3.ctex::
+plant-house.png::CompressedTexture2D::4929362719362745384::1787980441::1787980443::1::::<><><>0<>0<>65aa06928d2cd93da715ab361cf458d2<>res://.godot/imported/plant-house.png-2019dea908221fef6beca353b52fab5b.ctex::
+platform-long.png::CompressedTexture2D::4394452500687550547::1787980441::1787980443::1::::<><><>0<>0<>4890bee1ec6e3b55c36ec9483d5bb3bd<>res://.godot/imported/platform-long.png-31af4a7b196c3197e3101f0bf8ef00cc.ctex::
+rock-1.png::CompressedTexture2D::5352640406964023443::1787980441::1787980443::1::::<><><>0<>0<>25fd522c9e5a7b9fe1a3a03f3f1fa125<>res://.godot/imported/rock-1.png-2388fe71ee7c6fca61675c3594197524.ctex::
+rock-2.png::CompressedTexture2D::6543160801850812018::1787980441::1787980443::1::::<><><>0<>0<>76397d3a3511bf70f6d2f953cde6a4a0<>res://.godot/imported/rock-2.png-c802451243a546e578fc7d637f80f1f3.ctex::
+rock.png::CompressedTexture2D::1458184261376964920::1787980441::1787980443::1::::<><><>0<>0<>fb867bb45d129535172e4a3115d53fe6<>res://.godot/imported/rock.png-46daaa0d12639f5be5f3a74321617109.ctex::
+shrooms.png::CompressedTexture2D::8181340486171297893::1787980441::1787980443::1::::<><><>0<>0<>38eff3dfd3607016e372bcb589338425<>res://.godot/imported/shrooms.png-a949ca968d49e3a6323f07e3070c9f07.ctex::
+sign.png::CompressedTexture2D::4069316520768434188::1787980441::1787980443::1::::<><><>0<>0<>8a529f8109b02d611a1173c64cd2e170<>res://.godot/imported/sign.png-3096f7ff893cbf0f9c325155c06383d0.ctex::
+skulls.png::CompressedTexture2D::1935622401166715148::1787980441::1787980443::1::::<><><>0<>0<>392c4c68602e39617c13eb0e5045b211<>res://.godot/imported/skulls.png-3c6a7e6555475aaad01961352f5c42ce.ctex::
+small-platform.png::CompressedTexture2D::7335813380510236687::1787980441::1787980443::1::::<><><>0<>0<>006b79ee2dc15c8a1e7b5472fbd15a2c<>res://.godot/imported/small-platform.png-ef683aa651254ca3a221178411491804.ctex::
+spike-skull.png::CompressedTexture2D::109605251774318610::1787980441::1787980443::1::::<><><>0<>0<>4328d8e5f9f3d616ecf96e2118a5cc0d<>res://.godot/imported/spike-skull.png-87fc4f11f259a06d0793e79860a9d5c0.ctex::
+spikes-top.png::CompressedTexture2D::6220114763556029465::1787980441::1787980443::1::::<><><>0<>0<>6b815d883d832cecb3a09e010d6eff33<>res://.godot/imported/spikes-top.png-4c098fb14c16a27c041d68084d87fa42.ctex::
+spikes.png::CompressedTexture2D::4008627685514635609::1787980441::1787980443::1::::<><><>0<>0<>bc1de847db4a4766a79d585ea3596d29<>res://.godot/imported/spikes.png-c6115c84b2f68868b26dec9fe86e6737.ctex::
+straw-house.png::CompressedTexture2D::5247429321302728886::1787980441::1787980443::1::::<><><>0<>0<>a1f29fb4727cb6b240cd2324ffa8fe18<>res://.godot/imported/straw-house.png-fe9770d178ebb4ebd9a2efd87a9f8806.ctex::
+tree-house.png::CompressedTexture2D::5569639452653681996::1787980441::1787980443::1::::<><><>0<>0<>bbc3f26c8d7545de010cfec913e4c025<>res://.godot/imported/tree-house.png-c35779074577742905e4732a166efd4e.ctex::
+tree.png::CompressedTexture2D::4131986092686952561::1787980441::1787980443::1::::<><><>0<>0<>6058d8757d78b82c39b6e957c05dc091<>res://.godot/imported/tree.png-3e026b7e96082281f7030b615ed7066d.ctex::
+wooden-house.png::CompressedTexture2D::6468801019938902605::1787980441::1787980443::1::::<><><>0<>0<>f78449617fcdc8728e0c214e3e75ec05<>res://.godot/imported/wooden-house.png-bc4c266c69dcb9da3fab1933792dbf37.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/environment/PSD/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/environment/PSD/environment/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/environment/PSD/MISC/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/Sunnyland FX/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/Sunnyland FX/Previews/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/Sunnyland FX/Sprites/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/Sunnyland FX/Sprites/enemy-death/::1787980443
+enemy-death-1.png::CompressedTexture2D::5247621453128247166::1787980441::1787980443::1::::<><><>0<>0<>c612ca9ef5cc92b13f413aa93afaf949<>res://.godot/imported/enemy-death-1.png-856fead6da282ccb66d4a4e741036f95.ctex::
+enemy-death-2.png::CompressedTexture2D::1200760945980226633::1787980441::1787980443::1::::<><><>0<>0<>b1aaa0fc12f1aca277248afc9dcca7ea<>res://.godot/imported/enemy-death-2.png-a0ade9da15789d12feef3736d5232676.ctex::
+enemy-death-3.png::CompressedTexture2D::4590019320291245227::1787980441::1787980443::1::::<><><>0<>0<>ff5d2a059b662c80184d2e9a1fbba7a6<>res://.godot/imported/enemy-death-3.png-65efe7b7c182bb051b03950c250fbb27.ctex::
+enemy-death-4.png::CompressedTexture2D::5288247405932045622::1787980441::1787980443::1::::<><><>0<>0<>396e95501958c4b20777673b93932d9b<>res://.godot/imported/enemy-death-4.png-90ee309cb5c9e257d4180a140d2d2d8c.ctex::
+enemy-death-5.png::CompressedTexture2D::3644264222042720773::1787980441::1787980443::1::::<><><>0<>0<>68176bd6c135b6e416a582488406327a<>res://.godot/imported/enemy-death-5.png-ed660a6364d30e8ac8a28b858132db9f.ctex::
+enemy-death-6.png::CompressedTexture2D::6711021315814809486::1787980441::1787980443::1::::<><><>0<>0<>14794d79ca0a25a6b03b02e77a6817d9<>res://.godot/imported/enemy-death-6.png-78cf5ea6252c0532b39b1bb3be8a0177.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/Sunnyland FX/Sprites/item-feedback/::1787980443
+item-feedback-1.png::CompressedTexture2D::1186396313930003005::1787980441::1787980443::1::::<><><>0<>0<>631071c1c329a04c5f45578534eff993<>res://.godot/imported/item-feedback-1.png-a3c0858f664ca11b7213db05405016fc.ctex::
+item-feedback-2.png::CompressedTexture2D::2620017748450167205::1787980441::1787980443::1::::<><><>0<>0<>71fe0221b6d0faca0725536d13d41414<>res://.godot/imported/item-feedback-2.png-c63192e46ecc0aa0565aa6c47cea3fe7.ctex::
+item-feedback-3.png::CompressedTexture2D::6601426737215730090::1787980441::1787980443::1::::<><><>0<>0<>0d2aa8ddae2ef7b57e9c9365d696cc07<>res://.godot/imported/item-feedback-3.png-61cc495ec64b43a94fc140f5433b1afe.ctex::
+item-feedback-4.png::CompressedTexture2D::6809023599725965402::1787980441::1787980443::1::::<><><>0<>0<>8639cffea1bd4b62c0459619a3f1c4ed<>res://.godot/imported/item-feedback-4.png-64738cd1b10ca3ef5d9239f50c937782.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/Sunnyland FX/Spritesheets/::1787980443
+enemy-deadth.png::CompressedTexture2D::4871214898698738175::1787980441::1787980443::1::::<><><>0<>0<>81d923cf932ea8b72f43224dd66abe19<>res://.godot/imported/enemy-deadth.png-a7ef03504aa1a7014ba65039106a3a17.ctex::
+item-feedback.png::CompressedTexture2D::1392021209573967762::1787980441::1787980443::1::::<><><>0<>0<>19f5efcf90f6bcb7f2e362ba47aa8006<>res://.godot/imported/item-feedback.png-529b0833f9ed18da1e1eb72d396195e1.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/Sunnyland items/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/Sunnyland items/Previews/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/Sunnyland items/Sprites/::1787980441
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/Sunnyland items/Sprites/cherry/::1787980443
+cherry-1.png::CompressedTexture2D::3439022826402744027::1787980441::1787980443::1::::<><><>0<>0<>4bc1b4727daf28201de675cc0862c180<>res://.godot/imported/cherry-1.png-9ab98855a0fce96971515da4d85870af.ctex::
+cherry-2.png::CompressedTexture2D::1936039702613887595::1787980441::1787980443::1::::<><><>0<>0<>8c4c0e8795c21435d4e2ab4af12b8df6<>res://.godot/imported/cherry-2.png-bd2a969ecef9ad95d396ef346a7d50cb.ctex::
+cherry-3.png::CompressedTexture2D::8765253282484837286::1787980441::1787980443::1::::<><><>0<>0<>ec9f5cf03ec197095e90f4a45adcf931<>res://.godot/imported/cherry-3.png-05eb180449fd10ab2b8a9cb1b8bdc635.ctex::
+cherry-4.png::CompressedTexture2D::1057683186013358140::1787980441::1787980443::1::::<><><>0<>0<>62a907b7cbe56ce2f9d72dbb4135063b<>res://.godot/imported/cherry-4.png-97515cf043403de2d23db8c3e5afe87c.ctex::
+cherry-5.png::CompressedTexture2D::1297886854364576626::1787980441::1787980443::1::::<><><>0<>0<>6755c44c1b83202d196d89440c119dd8<>res://.godot/imported/cherry-5.png-517489de3f0a828a4f90ec90ef08a407.ctex::
+cherry-6.png::CompressedTexture2D::1866531607534863656::1787980441::1787980443::1::::<><><>0<>0<>5d942a3ad41814d2556d083b119766e0<>res://.godot/imported/cherry-6.png-f71c31bd42cad9b39db6c44e450762e9.ctex::
+cherry-7.png::CompressedTexture2D::5034493530243505408::1787980441::1787980443::1::::<><><>0<>0<>964d30bc0db39e19167103b2c06bd519<>res://.godot/imported/cherry-7.png-fe3a533da095e08232bceaff27b82cb2.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/Sunnyland items/Sprites/gem/::1787980443
+gem-1.png::CompressedTexture2D::8266140255737039177::1787980441::1787980443::1::::<><><>0<>0<>3239b3c7bb79a1fd099758323d886aa1<>res://.godot/imported/gem-1.png-89c21cea1c07c50606b570e5011d0470.ctex::
+gem-2.png::CompressedTexture2D::6358371678848857643::1787980441::1787980443::1::::<><><>0<>0<>a52f715f07eab1d88741eac199f99260<>res://.godot/imported/gem-2.png-44e746fe1b26cb31af92fb5e9bef3b0b.ctex::
+gem-3.png::CompressedTexture2D::5900519728723082308::1787980441::1787980443::1::::<><><>0<>0<>aed7e9d0293e3c041202926164d44fc7<>res://.godot/imported/gem-3.png-04efde2e5428f7334e2513757c165ed4.ctex::
+gem-4.png::CompressedTexture2D::3838772022543907640::1787980441::1787980443::1::::<><><>0<>0<>c44b9bfa5ffdcd0cfd871bdc2c7dce65<>res://.godot/imported/gem-4.png-42a4f61303493ce6f5eae70301b436e9.ctex::
+gem-5.png::CompressedTexture2D::1980131813226958672::1787980441::1787980443::1::::<><><>0<>0<>59244db0891e0ac615584bf1a4d9f3bd<>res://.godot/imported/gem-5.png-52aba03c09e728969481130bd26c5476.ctex::
+::res://Sunny-land-files/Sunny-land-files/Assets/Misc/Sunnyland items/Spritesheets/::1787980443
+cherry.png::CompressedTexture2D::1622564976047907701::1787980441::1787980443::1::::<><><>0<>0<>b62253a8f3f0b497c1093989bc52725b<>res://.godot/imported/cherry.png-8b43f0e24d15dd13115cf68035b37546.ctex::
+gem.png::CompressedTexture2D::7686067683881626574::1787980441::1787980443::1::::<><><>0<>0<>4694e835878a927475aa9913dd47e776<>res://.godot/imported/gem.png-068940ecc8e9cf76ebefb12a9695362d.ctex::

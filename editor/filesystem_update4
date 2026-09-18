@@ -1,0 +1,5 @@
+res://scenes/main.tscn
+res://scripts/main.gd
+res://scenes/moving_platform.tscn
+res://scenes/levels/level3.tscn
+res://scenes/player.tscn
